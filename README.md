@@ -22,20 +22,21 @@ Currently pursuing Master of Science in **Robotics** at the University of Michig
 Technically sound in core robotics concepts, computer vision and proficient in performing computational simulations and modeling on MATLAB. Collaborative team player facilitating smooth project transitions. Deeply committed to conducting impactful research and excelling in project planning within the relevant field. 
 
 <!--Intro start-->
-- 🔭 Invested on **Computer Vision, Deep learning, Visual-language Reasoning, Motion Planning and Physical Modeling**
+- 🔭 Invested on **Computer Vision, Deep learning, Robot Learning for Manipulation, Motion Planning and Physical Modeling**
 
-- 🌱 I’m currently learning **Transformer architectures for Vision-language cross embedding and Reinforcement learning for policy learning**
+- 🌱 I’m currently learning **Learning implicit representations for 3D Aware grasping**
 
-- ☁️ I've keen interest in **Cognitive Robotics**
+- ☁️ I've keen interest in **Robot Learning, Embodied Intelligence and Cognitive Robotics**
 
 - 📫 Feel free to reach me out **jemprem@umich.edu**
 
 Research interests encompass the following areas:
-1) Cognitive Robotics:
+1) Robot Learning
+2) Cognitive Robotics:
 - Visual perception-action for robotic manipulation
 - Embodied Reasoning 
-2) Motion planning and control
-3) Reinforcement learning
+3) Motion planning and control
+4) Reinforcement learning
 
 <!--Intro end-->
 
