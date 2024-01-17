@@ -5,7 +5,7 @@
   </ul>
 </div>
 <!--profile visit count-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemuelstanley47&label=Profile%20views&color=0e75b6&style=flat" alt="jemuelstanley47" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemuelstanley47&label=Profile%20views&color=0e75b6&style=flat" alt="jemuelstanley47" /> </p> -->
 
 Currently pursuing Master of Science in **Robotics** at the University of Michigan (**UMich**) , Ann Arbor expected to graduate on April 2024. 
 
