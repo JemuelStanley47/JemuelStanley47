@@ -19,7 +19,7 @@ Currently pursuing Master of Science in **Robotics** at the University of Michig
 <a href="https://www.linkedin.com/in/jemuelstanley47" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 ### More about me:
-Actively looking for full-time opportunities as Robotics Software Engineer
+Actively looking for full-time opportunities as Robotics Software Engineer, R&D Engineer, Robot Perception Engineer and Robot Motion Planning Engineer
 
 Demonstrated proficiency in developing machine learning solutions tailored for 3D computer vision and motion 
 planning algorithms for robot learning, with a focus on advancing vision-aided robotic manipulation and 
@@ -31,8 +31,6 @@ Collaborative team player facilitating smooth project transitions.
 - 🔭 Interests: **Computer Vision, Deep learning, Robot Learning for Manipulation, Motion Planning and Physical Modeling**
 
 - 🌱 I’m currently a part of **Spot Robot Development Project**
-
-- ☁️ I've keen interest in **Robot Learning, Embodied Intelligence and Cognitive Robotics**
 
 - 📫 Feel free to reach me out **jemprem@umich.edu**
 
