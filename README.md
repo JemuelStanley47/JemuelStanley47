@@ -38,7 +38,7 @@ Collaborative team player facilitating smooth project transitions.
 <!--Intro end-->
 
 <!-- Languages Data -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemuelstanley47&show_icons=true&locale=en&layout=compact" alt="jemuelstanley47" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemuelstanley47&show_icons=true&locale=en&layout=compact" alt="jemuelstanley47" /></p> -->
 
 <!-- Updated Date info -->
 **Last Updated:** 01/16/2024 *(mm/dd/yyyy)*
