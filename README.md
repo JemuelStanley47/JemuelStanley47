@@ -7,7 +7,7 @@
 <!--profile visit count-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemuelstanley47&label=Profile%20views&color=0e75b6&style=flat" alt="jemuelstanley47" /> </p> -->
 
-Currently pursuing Master of Science in **Robotics** at the University of Michigan (**UMich**) , Ann Arbor expected to graduate on April 2024. 
+R&D Robotics Engineer (Manipulation) | Master of Science in **Robotics** at the University of Michigan (**UMich**)
 
 ### My Skills:
 | 	**Programming Languages**	 | 	**Frameworks**	 | 	**OS**	 | **Hardware** |
@@ -19,7 +19,6 @@ Currently pursuing Master of Science in **Robotics** at the University of Michig
 <a href="https://www.linkedin.com/in/jemuelstanley47" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 ### More about me:
-Actively looking for full-time opportunities as Robotics Software Engineer, R&D Engineer, Robot Perception Engineer and Robot Motion Planning Engineer
 
 Demonstrated proficiency in developing machine learning solutions tailored for 3D computer vision and motion 
 planning algorithms for robot learning, with a focus on advancing vision-aided robotic manipulation and 
